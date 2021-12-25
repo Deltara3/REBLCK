@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    assert!(9 + 10, 21);
 }
+

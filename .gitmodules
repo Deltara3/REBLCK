@@ -1,0 +1,3 @@
+[submodule "SPWN-language"]
+	path = SPWN-language
+	url = https://github.com/Spu7Nix/SPWN-language

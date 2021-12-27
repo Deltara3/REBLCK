@@ -4,6 +4,9 @@ use sdl2::gfx::framerate::FPSManager;
 
 use std::process::exit;
 
+// TODO use this.
+mod project;
+
 const FPS: u32 = 60;
 
 fn main() {

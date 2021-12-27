@@ -5,14 +5,8 @@ A revival and reimplemention of [BLCK](https://github.com/FlowVix/BLCK) in Rust.
 **RΞBLCK is in very early development and currently is not functional.**
 
 ## Dependencies
-- Cargo
-- [sdl2](https://libsdl.org/download)
-- [sdl2\_gfx](https://sourceforge.net/projects/sdl2gfx/)
-
-SDL2 install on Linux (Arch based)
-```sh
-$ pacman -S sdl2 sdl2_gfx
-```
+- Rust
+- Cargo (Normally comes with Rust)
 
 ## Building
 ```sh

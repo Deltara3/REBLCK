@@ -8,7 +8,5 @@ edition = "2021"
 [dependencies.spwn]
 path = "./SPWN-language/spwn"
 
-[dependencies.sdl2]
-version = "0.35.1"
-default-features = false
-features = ["gfx"]
+[dependencies.ggez]
+version = "0.7"

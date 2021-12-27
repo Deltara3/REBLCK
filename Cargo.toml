@@ -10,3 +10,5 @@ path = "./SPWN-language/spwn"
 
 [dependencies.sdl2]
 version = "0.35.1"
+default-features = false
+features = ["gfx"]

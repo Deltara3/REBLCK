@@ -22,4 +22,4 @@ The latest "stable" version. As of writing, this is v0.7.
 ## The RΞBLCK Team
 - [Deltara3](https://github.com/Deltara3) (me obviously)
 - [zTags](https://github.com/zTags)
-- [teesh3rt](https://github.com/teesh3rt) (once he learns Rust)
+- [teesh3rt](https://github.com/teesh3rt)

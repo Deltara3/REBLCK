@@ -8,5 +8,17 @@ edition = "2021"
 [dependencies.spwn]
 path = "./SPWN-language/spwn"
 
-[dependencies.ggez]
-version = "0.7"
+[dependencies.imgui]
+version = "0.8"
+
+[dependencies.imgui-winit-support]
+version = "0.8"
+
+[dependencies.imgui-glium-renderer]
+version = "0.8"
+
+[dependencies.winit]
+version = "0.25"
+
+[dependencies.glium]
+version = "0.30"
